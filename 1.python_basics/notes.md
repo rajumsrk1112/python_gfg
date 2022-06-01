@@ -1,3 +1,3 @@
 # Basics of python
 
-** Python is an interpreted language. **
+**Python is an interpreted language**
