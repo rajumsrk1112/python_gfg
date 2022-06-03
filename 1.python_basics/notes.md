@@ -2,5 +2,6 @@
 
 **Python is an interpreted language**
 
-> Very simple syntax. Easy tolearn for beginners.
-print("Hello World")
+> Very simple syntax. Easy to learn for beginners.
+
+Ex: print("Hello World")
